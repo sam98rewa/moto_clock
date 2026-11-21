@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="widget_desc">Age and exam countdown</string>
+    <string name="clock_name">Clock</string>
+    <string name="clock_desc">Large stacked clock with date</string>
+</resources>
